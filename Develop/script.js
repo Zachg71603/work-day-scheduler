@@ -56,3 +56,27 @@ textarea{
   background-color: #77dd77;
   color: white;
 }
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06AED5;
+  color: white;
+  width: 75px;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+}
+.currentDay {
+  color: #06AED5;
+  font-size: 25px;
+  font-weight: bold;
+}
+.timeToday {
+  color: #06AED5;
+  font-size: 25px;
+  font-weight: bold;
+}
